@@ -4,7 +4,6 @@
     margin:0;
     background-color: rgb(59, 63, 66);
 }
-
 .calculator {
     border: 1px solid;
       width: 307px; 
@@ -15,7 +14,6 @@
     border-radius: 15px;
      
 }
-
 #text{
     padding: 12px 20px;
     font-size: 18px; 
@@ -29,8 +27,6 @@
   margin-bottom: 15px;
   border: none;
 }
-
-
 .item {
     padding: 20px;
     text-align: center;
@@ -45,7 +41,6 @@
     width: 131px;
     background-color: red;
 } 
-
 .btn{
     height: 120px;
     float: right;
@@ -54,7 +49,6 @@
 #equal{
     background-color: blue;
 }
-
 button {
     width: 58px;
     height: 58px;
